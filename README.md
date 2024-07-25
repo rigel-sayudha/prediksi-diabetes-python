@@ -9,5 +9,5 @@
 -   Joblib 1.0
 
 ## Running
-
-streamlit run app.py
+Buka Terminal : 
+command : streamlit run app.py
