@@ -1,4 +1,4 @@
-# Absensi PKL
+# Aplikasi Prediksi Diabetes dengan Python
 
 ## Instalasi
 
